@@ -1,4 +1,4 @@
-class Particle { //<>// //<>// //<>// //<>// //<>// //<>// //<>// //<>// //<>// //<>// //<>// //<>//
+class Particle { //<>//
   PVector pos;
   Ray[] rays;
   Particle(float x, float y) {

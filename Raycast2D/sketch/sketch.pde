@@ -39,4 +39,5 @@ void draw()
   p.look(walls);
   xoff += 0.01;
   yoff += 0.01;
+  System.out.println(frameRate);
 }
